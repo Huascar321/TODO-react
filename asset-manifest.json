@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/curso-intro-react/static/css/main.1d589824.css",
+    "main.js": "/curso-intro-react/static/js/main.cdb7a5e9.js",
+    "static/media/studying.gif": "/curso-intro-react/static/media/studying.04237ccc99efb9560810.gif",
+    "static/media/search-icon.png": "/curso-intro-react/static/media/search-icon.d706c28e81ec6b22c368.png",
+    "static/media/check-icon.jpg": "/curso-intro-react/static/media/check-icon.76696e9619f70d6e6dd9.jpg",
+    "index.html": "/curso-intro-react/index.html",
+    "main.1d589824.css.map": "/curso-intro-react/static/css/main.1d589824.css.map",
+    "main.cdb7a5e9.js.map": "/curso-intro-react/static/js/main.cdb7a5e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d589824.css",
+    "static/js/main.cdb7a5e9.js"
+  ]
+}
